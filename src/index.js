@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import MultiLingualTranslationWrapper from 'multilingual-translate'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <MultiLingualTranslationWrapper defLang="en">
+      <App />
+    </MultiLingualTranslationWrapper>
   </React.StrictMode>,
   document.getElementById('root')
 );
