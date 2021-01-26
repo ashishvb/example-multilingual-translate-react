@@ -5,18 +5,18 @@
     "main.js.map": "/example-multilingual-translate-react/static/js/main.20be1a82.chunk.js.map",
     "runtime-main.js": "/example-multilingual-translate-react/static/js/runtime-main.0157d9dc.js",
     "runtime-main.js.map": "/example-multilingual-translate-react/static/js/runtime-main.0157d9dc.js.map",
-    "static/js/2.bee62d7b.chunk.js": "/example-multilingual-translate-react/static/js/2.bee62d7b.chunk.js",
-    "static/js/2.bee62d7b.chunk.js.map": "/example-multilingual-translate-react/static/js/2.bee62d7b.chunk.js.map",
+    "static/js/2.88303a40.chunk.js": "/example-multilingual-translate-react/static/js/2.88303a40.chunk.js",
+    "static/js/2.88303a40.chunk.js.map": "/example-multilingual-translate-react/static/js/2.88303a40.chunk.js.map",
     "static/js/3.297378c4.chunk.js": "/example-multilingual-translate-react/static/js/3.297378c4.chunk.js",
     "static/js/3.297378c4.chunk.js.map": "/example-multilingual-translate-react/static/js/3.297378c4.chunk.js.map",
     "index.html": "/example-multilingual-translate-react/index.html",
     "static/css/main.518ce94c.chunk.css.map": "/example-multilingual-translate-react/static/css/main.518ce94c.chunk.css.map",
-    "static/js/2.bee62d7b.chunk.js.LICENSE.txt": "/example-multilingual-translate-react/static/js/2.bee62d7b.chunk.js.LICENSE.txt",
+    "static/js/2.88303a40.chunk.js.LICENSE.txt": "/example-multilingual-translate-react/static/js/2.88303a40.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/example-multilingual-translate-react/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0157d9dc.js",
-    "static/js/2.bee62d7b.chunk.js",
+    "static/js/2.88303a40.chunk.js",
     "static/css/main.518ce94c.chunk.css",
     "static/js/main.20be1a82.chunk.js"
   ]
