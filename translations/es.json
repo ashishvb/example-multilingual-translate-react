@@ -1,0 +1,9 @@
+{
+    "homepage" : {
+        "title": "Hola",
+        "body" : "Esta es una aplicación de ejemplo para el paquete de reacción de traducción multilingüee",
+        "change-language": "Seleccione cualquier idioma de debajo de las opciones",
+        "github-msg" : "Para descargar, visite",
+        "thankyou": "Gracias"
+    }
+}

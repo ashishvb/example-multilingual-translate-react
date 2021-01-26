@@ -1,0 +1,9 @@
+{
+    "homepage" : {
+        "title": "Hello",
+        "body" : "This is an example application for multilingual translate react package",
+        "change-language": "Please select any language from below the options",
+        "github-msg" : "To download please visit",
+        "thankyou": "Thank You"
+    }
+}
