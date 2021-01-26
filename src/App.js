@@ -2,11 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 import { useTranslate  } from 'multilingual-translate';
 
+
 function App() {
 
-
   let [translate,changeLanguage] = useTranslate();
-
 
   const onChangeLanguage = (lang) => {
     changeLanguage(lang);
@@ -14,7 +13,7 @@ function App() {
 
   return (
     <div className="container text-center py-4">
-      <div className="row">
+       <div className="row">
         <div className="col-lg-6 col-md-8 col-12 mx-auto">
 
             <div className="card my-4">
@@ -39,7 +38,9 @@ function App() {
                     {translate('homepage.github-msg')} <br/>  
                       <a href="https://github.com/ashishvb/multilingual-translate-react"> https://github.com/ashishvb/multilingual-translate-react </a>
                     </p>
-                  <p> {translate('homepage.thankyou')} </p>
+                  <p> 
+                    {translate('homepage.thankyou')} 
+                  </p>
               </div>
           </div>
         </div>

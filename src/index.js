@@ -6,7 +6,7 @@ import MultiLingualTranslationWrapper from 'multilingual-translate'
 
 ReactDOM.render(
   <React.StrictMode>
-    <MultiLingualTranslationWrapper defLang="en">
+    <MultiLingualTranslationWrapper defLang="en" folderURL={process.env.PUBLIC_URL + '/translations'}>
       <App />
     </MultiLingualTranslationWrapper>
   </React.StrictMode>,
